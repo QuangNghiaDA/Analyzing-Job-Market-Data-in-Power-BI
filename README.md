@@ -114,6 +114,8 @@ Công ty có số lượng bài đăng tuyển dụng nhiều nhất ở vị tr
 
 ## Bước 4: Xây dựng Dashboard
 Dựa trên những gì đã làm, chia dashboard thành 3 thẻ riêng biệt: Job, Skills và Company.
+
 Thêm vào một số biểu đồ và điều chỉnh các biểu đồ sao cho phù hợp.
+
 Tạo một dashboard có trang chủ và người dùng có thể truy cập vào các trang khác từ trang chủ và ngược lại.
 
