@@ -113,9 +113,25 @@ Công ty có số lượng bài đăng tuyển dụng nhiều nhất ở vị tr
 - Các lĩnh vực công nghệ có nhu cầu cao với vai trò Data Science
 
 ## Bước 4: Xây dựng Dashboard
-Dựa trên những gì đã làm, chia dashboard thành 3 thẻ riêng biệt: Job, Skills và Company.
+Dựa trên những gì đã làm, chia dashboard thành 4 thẻ riêng biệt: Home, Job, Skills và Company.
 
-Thêm vào một số biểu đồ và điều chỉnh các biểu đồ sao cho phù hợp.
+Thêm vào một số biểu đồ, slicer và điều chỉnh sao cho phù hợp.
 
-Tạo một dashboard có trang chủ và người dùng có thể truy cập vào các trang khác từ trang chủ và ngược lại.
+Tạo một dashboard mà từ thẻ Home người dùng có thể truy cập vào Job, Skills hoặc Company và ngược lại.
+
+## Kết quả:
+
+***Thẻ Home***
+
+![alt](![company](https://user-images.githubusercontent.com/105619352/228904705-358b6409-b434-49b1-88db-d085156cf842.png)
+
+***Thẻ Job***
+
+![alt](https://user-images.githubusercontent.com/105619352/228904566-95b59cf7-215e-4d7b-a787-e2f956cf4798.png)
+
+***Thẻ Skills***
+![alt](https://user-images.githubusercontent.com/105619352/228904594-30542c67-c820-4ff2-acfd-de91c4fddc58.png)
+
+***Thẻ Company***
+![alt](https://user-images.githubusercontent.com/105619352/228904613-21ffff4b-cca2-4849-9cb8-d4a72b0bf24c.png)
 
