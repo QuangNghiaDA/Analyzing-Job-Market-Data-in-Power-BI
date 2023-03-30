@@ -130,8 +130,10 @@ Tạo một dashboard mà từ thẻ Home người dùng có thể truy cập v�
 ![alt](https://user-images.githubusercontent.com/105619352/228904566-95b59cf7-215e-4d7b-a787-e2f956cf4798.png)
 
 ***Thẻ Skills***
+
 ![alt](https://user-images.githubusercontent.com/105619352/228904594-30542c67-c820-4ff2-acfd-de91c4fddc58.png)
 
 ***Thẻ Company***
+
 ![alt](https://user-images.githubusercontent.com/105619352/228904613-21ffff4b-cca2-4849-9cb8-d4a72b0bf24c.png)
 
