@@ -21,7 +21,7 @@ Trước tiên, ta cần thực hiện Exploratory data analysis (EDA). Phạm v
 
 ## Bước 1: Kiểm tra dữ liệu
 Kiểm tra các giá trị bị khuyết.
-
+https://user-images.githubusercontent.com/105619352/228890834-65d2a59e-32ea-402f-a33b-09de51fd9eb7.png
 
 
 ## Bước 2: Khám phá dữ liệu
