@@ -123,7 +123,7 @@ Tạo một dashboard mà từ thẻ Home người dùng có thể truy cập v�
 
 ***Thẻ Home***
 
-![alt](![company](https://user-images.githubusercontent.com/105619352/228904705-358b6409-b434-49b1-88db-d085156cf842.png)
+![alt](https://user-images.githubusercontent.com/105619352/228904541-9ce4c1e6-5418-4872-b66c-5bd396e80d44.png)
 
 ***Thẻ Job***
 
