@@ -74,6 +74,7 @@ Quan sát biểu đồ, ta thấy rằng Data Analyst là chức danh được t
 
 ## Bước 3: Phân tích và trực quan hóa
 Tạo một bảng mới như sau:
+
 ![alt](https://user-images.githubusercontent.com/105619352/228897308-7e6dfd68-e306-46e7-9479-5f22764d3696.png)
 
 Job skills được tách từ cột Job Skills của bảng Job Posting.
@@ -92,6 +93,7 @@ Tạo các DAX sau:
 - Xác suất kỹ năng xuất hiện trong 1 tin tuyển dụng
 
 Sau đó tạo ma trận:
+
 ![alt](https://user-images.githubusercontent.com/105619352/228897344-b55b29ef-4754-47ff-bf24-b973672605d3.png)
 
 Tiếp theo, ta khám phá xu hướng kỹ năng theo thời gian.
